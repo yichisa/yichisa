@@ -1,6 +1,6 @@
 # yichisa
 
-### Languages | Python, JavaScript, HTML, CSS, SQL
+### Languages | Python, JavaScript, Typescript, HTML, CSS, SQL
 ### Frameworks & Libraries | Flask, jQuery, Bootstrap, Jinja, React
 ### Database Tools | PostgreSQL, SQLAlchemy
 
